@@ -1,0 +1,13 @@
+/* styling for main index.html */
+
+
+a.recepie {
+  display: block;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(128, 128, 128);
+}
+
+
+
